@@ -14,9 +14,9 @@ csv_file_path = os.path.join(model_cleaning_dir, 'cleaned_data.csv')
 
 # Check if the file exists (for debugging)
 if os.path.exists(csv_file_path):
-    print(f"File found: {csv_file_path}")
+    print(f"File found: {csv_file_path}")
 else:
-    print(f"File not found at: {csv_file_path}")
+    print(f"File not found at: {csv_file_path}")
 
 
 # Read the cleaned data CSV file
