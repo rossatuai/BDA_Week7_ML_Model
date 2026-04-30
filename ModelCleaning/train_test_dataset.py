@@ -31,6 +31,6 @@ y= df["Salary"]
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 mind = LinearRegression()
-mind.fit(X_train,  y_train)
+mind.fit(X_train, y_train)
 
 dump(mind, "AgeSalaryModel.pkl")
