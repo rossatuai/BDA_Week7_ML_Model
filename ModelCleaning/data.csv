@@ -1,0 +1,12 @@
+Name, Age, Email, Salary
+ Alice , 25, alice@example.com, 123000
+bob, , bob@example.com, 34500
+Charlie, 30, charlie@example.com, 122000
+Paul ,23 , Paul@example.com, 120000
+    John ,21 ,JOHN@example.com, 69000
+Carter  ,22 ,Carter@example.com, 102000
+MAURA   ,25   ,  MAURA@example.com, 145000
+Johnny   ,27 ,Johnny@example.com, 156000
+chales ,29 ,chales@example.com, 145600
+OLIVER ,55 ,OLIVER@example.com, 250000
+,25 ,Paul@example.com, 38383
