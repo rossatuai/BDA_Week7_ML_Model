@@ -1,7 +1,7 @@
 name: CI
 
 on:
-  workflow_dispatch
+  workflow_dispatch:
 
 jobs:
   data_pipeline:
@@ -13,9 +13,15 @@ jobs:
       # Step 1: Clone repo
       - name: Checkout code
         uses: actions/checkout@v4
+
+
+
+      # Debug workspace (optional)
+      - name: Show workspace
         run: |
           echo ${{ github.workspace }}
           echo $GITHUB_WORKSPACE
+
 
 
       # Step 2: Set up Python 3.10
