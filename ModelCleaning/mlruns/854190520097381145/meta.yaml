@@ -1,0 +1,6 @@
+artifact_location: file:///opt/mlflow/BDA_Week7_ML_Model/ModelCleaning/mlruns/854190520097381145
+creation_time: 1777593157203
+experiment_id: '854190520097381145'
+last_update_time: 1777593157203
+lifecycle_stage: active
+name: salary_prediction_v2
