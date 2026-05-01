@@ -1,0 +1,6 @@
+mlflow_data/
+mlruns/
+model.pkl
+cleaned_data.csv
+*.save
+*.save.*
